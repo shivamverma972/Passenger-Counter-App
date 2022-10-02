@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    background-image: url(station.jpg);
+    background-size: cover;
+    text-align: center;
+    font-size: 30px;
+}
+
+button{
+    font-size: 35px;
+    padding: 15px 50px;
+    border-radius: 8px;
+    margin: 20px;
+    border: 7px;
+}
+
+.button-in{
+    background-color: red;
+    color: #fff;
+    
+}
+
+.button-in:hover{
+    background-color: #fff;
+    color: red;
+}
+
+.button-de{
+    background-color: lightgreen;
+    color: #fff;
+}
+
+.button-de:hover{
+    background-color: #fff;
+    color: lightgreen;
+}
+
+.button-sa{
+    background-color: darkgreen;
+    color: #fff;
+}
+
+.button-sa:hover{
+    background-color: #fff;
+    color: darkgreen;
+}
